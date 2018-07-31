@@ -2,7 +2,7 @@
 
 ### Description
 * Unit tests
-* integration tests
+* Integration tests
 * System tests
 * Mocking and patching user inputs and print statements
 
