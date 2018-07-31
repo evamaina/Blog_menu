@@ -1,0 +1,10 @@
+{
+  "system/test_app.py::AppTest": true,
+  "system/test_app.py::AppTest::test_ask_read_blog": true,
+  "system/test_app.py::AppTest::test_menu_calls_ask_create_post": true,
+  "system/test_app.py::AppTest::test_menu_calls_ask_read_blogs": true,
+  "system/test_app.py::AppTest::test_menu_calls_print_blogs": true,
+  "system/test_app.py::AppTest::test_print_posts": true,
+  "system/test_app.py::TestApp": true,
+  "system/test_app.py::TestCase": true
+}
